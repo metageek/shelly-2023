@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1687722075
-ModificationTime: 1688915199
+ModificationTime: 1689113324
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 6
+WinInfo: 54 18 6
 BeginPrivate: 1
 BlueValues 15 [-20 0 658 688]
 EndPrivate
@@ -2201,208 +2201,10 @@ EndChar
 StartChar: Q
 Encoding: 81 81 16
 Width: 815
-Flags: W
+Flags: HW
 HStem: 3 42<629.121 766.633> 14 49<164.621 388.375> 201 41<348.247 470.718> 400 15<532.938 562> 603 47<425.965 600.299> 620 38<280.846 385.648>
 VStem: 11 86<134.294 347.036> 293 48<152.109 183.759> 309 80<462.007 568.542> 617 77<388.517 583.418>
 LayerCount: 2
-Back
-Image2: image/png 11680 -14.2025 681.472 3.99537 3.99537
-M,6r;%14!\!!!!.8Ou6I!!!#C!!!#$#R18/!;q_9%0-AN!(fRE<-SH2SI(Yu`O3aE70Pu#&6*0C
-L.)l/@2!2a&7cLe"f("=Lb$1E$LU<%!<OH7('tf\;%XOB6ik71ATJ++Lgn`LW#0$g@U`#)^&$9G
-1;gaBVXLM=\,5%HqS))umW<SQSZ;_ClI;eRg(]g:KE;G`!`>V<TY$AV&dfluYS9V.P>$X_!\$qg
-!DEj=8o@?OO8pVq!so-/TKiRG'Sr%0RSY+-9JQhc$D]q<MCI=bVJjHNcLpXUs''pOrV,Sas8&)Y
-k<K!Grpc&!W,KHLepd1>^@THp>ij+n;[4=bOK)QrZ9%X)6WKC$<UBHPPq(JEq)_YUZ@`2b?k+kc
-Kg>bOrqOMuW]b_&W41Z5>J9Xr46fn^qN^p<P>B][?[o3WrqF03TX[$F(*Jhp?X?a6=O@2HDV_lR
-5<iLtB\u+`Dr9E#Y?.p!W`lg1"V:>S-/K=aB*L=u\1BC)8;=nYormZ4^](Wejcros](PC=)fNB_
-56(P%p"aiL=\2Pf8kT*e8-^5aYc;'F^?X+@LDhmpK^.'dPH%QZNr;,'3%9tGUGjQNq%(":aWLNO
-#PHedYGio$5,m,:?Z2bG.T]^U?rX($6.N&>;g%K]<K/"TecMdNX]eaTL%X:FcRg[s*D^gMY.g*U
-oV8L<]Z^H^<=9Q-O[gKjO$<E=qY9*3X_QrE7G+5+1i/[seZ,Sq9q&#sK*JC*:-2/jF3H?G4"%,h
-Cb.i%9u\R/o5B-US,29:D_1MTe"?VMe]g>Yq9M:XC:"clPI=Jp?<nRpfO5,;F7Ge/l,c'u:gs#?
-MW^9s)huK)eQ6+WD;2Lu4+D^Wg9P:JSKsUE!%&eOb"XE6kUWjN@OKs(6%`-C?CnQQV!XnK!!=YV
-&AIr!$ak3I?E7i/H@)"TnA>deDgq9s$P*/rZ[t5CW>=)%J:qYDi&c/NXP1.!Y?JDQXVs'3A=X_@
-.@WtuP;%L^b?rb/O$0?Uhm6F%hRqN^f5qNGP6Y(q:5eaPP40E\S;Ts4i>s<_>T%G(Fi4k^W+PkM
-e8`MLV[<b<e<*6B)5qgC(CBWnQX<p#CY,^pC<+U?<dML[rqdHF!6;c7cpQ9$'E+ehN>jfWrVH1c
-V[bji*II.X[]e%*gIdk6$lfp<j5lV7<nCZ%Xdqk!drZ9N4WG3?=-)c4<84iu(#H/^%QVHkhJmff
-.dt<FL5H(Gs7"V^.KBmME&ZCJ?,nu-C=fV*JHJt;r:%W(?ScsSch[P.Ir?V;NephEHh@Wa"FlV+
-M?!=E&:T.\!$9Y81In'O^Z0>>=P6Mk*\_Q`X]r97q$Z=hac[.,^_tn7CSumq*hiiK*2rFel3'?P
-&*an%9E98OSd5fkZia)DNWqbdruH&ne>Qe90V"PD;$Z?:9!r0L%^gH6<jci$3pYef)4?d/L&3+n
-%W/H)c8t8B$_34t4,.LV8_[CT?HrV,8bCcpr`1US]LXVVYe\sD76@-aru'`W",p[+L8jdj45YL2
-S?Y%]"FW2qF@J4)i*"@.5uN+,l)/:V`f99JF\c3JadQ!`!ouW=?nH-CW);j&/$;iA*HfjB2VirL
-7.rPq83'b1qPDfF=eiV'kcW*1-uW^k&mlA'<m\mq3`\K7^]W;l_e:i/6`$-31tpS*HI]#qqWoqL
-l^G4rHM>7Rs-]n1343MWb)VsR\=q@'kM_6oS174@X09';+("td0h@ZWjiWq=a0e!()sO0C$@h8)
-0iCI[]1+GY\59YKgI<94aMD3M:Y/!i%SUIO8&^*1g5GFtT!!8OISR$![IiO\-<m>Za,-3?.N)t.
-CFJ3r+0V8ap0$]RQ&9EpM!M4W:7ZCE)54):W+2HJp6i<[B&>=ImG>N<@k&:p+8-NZVg.7k?K%Sn
-fs7GS3H7%J2t"MJEeQJ6kB%h/#`$=O[;0WX&FO8i6Hn8A&L5flgLj^qMXU/b>!J#q::3f.nFWSP
-Rrl:9mCYD#*-B!3!SSCA)V$8&K'IpPeZXHebJ=R-g2qd66<$+LWc$4iKcW*tPb'mVVLIZqB=%];
-2JYP6I76jfc3J2kg%O)no:(&c"+<\V??jkO<k9N(j&30h,r7/W]kGe;h7-$d0,4Ll@I`?rg)/A6
-O,`,FqKK^OSXqZ`P-/)g[TC)!!Xi#mcmjfS]Bc2L0@D@OXO&;W5oXa4k.P3X?p*=+>HB:^9oHG5
-Q2_qJn3MBW]Qor#N_@K/^bE<;]BqL0Hc6kl7^^U2i+,AGj6"pFLC?qI<1sgm2*B#B$'889p[6SO
-SXtuCPVeMbd-n[BSsB/Z0,:,o^)'@Niqg$%X-`IYN;fEVJ3fHf3d%I*?DG)V0]6>4gjT(nAVB8l
-n!MH**=Kf&/j,P`,U`=J=[2T/;qe>#KJ#D57)H:_]2*>u's2q;qKh>MS[%Bcec>u;cbu;9Ha^))
-BP$_PA$TAur\CN!9.!!*Fl<&70\/se2A*FOJH_^-)*:;,kD$Ab_H+!@m;(,Hc!$:ufrM"f1e=Qd
-c93NjW`dmR#*n>e#9WSY]4(cdRPd`Ndbk*$l`Y(`V47,*chqDN<_B'G`Z6H;37ptZ^%@I(ZXD!N
-YcN1^A=m!.(uqp/?st'@3oM4Z6Ou>U!F@)[P6G7KG?kJ,He-k_=k+c2*kZUD#'s(72GI8Q>Y-bq
-3&=ZmNnOMq21WM[M)Xd_8r&3.%_tp"0XroM5QV_-V-19Fdori5cu.Xp\(l"^?.dAS@j9`:ER-FF
-._K$dGSHd!qWUNsCK:E>Yi,)S;6tuo/4^Q+U.hO@]E`)d:G2F!=(htJU0DQLe[gI@)(Z7S->6B&
-o[#-99UoKRJF7]Nres!J&ETu>1s0Up"dYE(=(Y.30SgSAW.%8BWVT.k!/DJU.A2GZ!EjneHX'd[
-`3!7IXu6k4@5kO2kJnJpkiuajMjG@uD]!7IfKYcR9Q&XY4puSuls5\@)V^W/.4lE9@f<*G.-##"
-!(pVe>qacZJWo^jV8&B:U!CHI=gQ4\6&!8Ela'uS^2C7-A?sl+He4a*^8VXDG*khk,'>8>0em0T
-/c)3o!ljRRe7\dE9_"p2K+XkIoQ$f:[SjNueO1&Poo4)0*#ppIEj9$M'A"RfG_QO4n'KoQr_6#:
-=D!RL3kLh@CSk:KHF5/AQVCRMhCcKcWFEJX-4@F59oPIq74EMcCO=sQIJ8X2Q96\#Fi[iR^&jZ!
-,F*EjFk?%D-$MWh-$FfI9//\7\oaoG].+uHd75:\*a\ZHh&e;L0<J`oQJ0'$]-77Zh^*t>n!@=+
-RGCmdWLjWB!(rU'?,R/&loOULqedZbN>5igAF-KBooX79M?q)uNTnohgZ/^9#C'3'#-H.58I?h:
-6+X9:KffChSrTbVrf_sDjrc*B<E7&<,,sj5-WYa`bhb2L-M>qoDi$Np7].tN`i-_+#E&gSo]#mM
-1+lL:_KJ=^,`c>s<q"nYj0raFLF=Iu-&iU!&L>>s8#^oDa;Cr<I>."*"u,9?ZYlCHGOA&P)8nXo
-j/1Tc`?t=3grW6<7llg;>ge)Ta93^[OHf?KWh8O#&%c#ea+dPf[:%%:XYbnJ$c%ijLb5dQQ7WcJ
-BdEf:M?d3ngrO\l`ZRIMjp?&)R5dp12RVdYh(s-J'BT:.,R&peNigZkG=N,[3c?o=WOiu'/[ekC
-0&iJApS\9*)G"P'Q9$uU:aH.&U`^gPYDNRa//7qR!^qlu@EssP.Z+j!?r4h`*G31'7B-cBs4FSd
-eVPZF-ur7`Ms0ecZXT_\_8u)uUSlacPcfIGni7s[PQ6FrRZOLB2YDiL71'mAZH42#'CA@<)T3ui
-.!>ud7\VFUI.2]3m=f]cHoQ"H.`J7#%GH:?J'"2eqYZNEM[V:]Q:Z8sm+]MU.&g27?[fa6F(3W&
-%j147BgKUt9=ZSg.D8R"OQb?2R4aU&#*I&R/E@/('K@kY_cjH_,o5g0pQeb`FUYG9;fIY]V#nPu
-WasVC!mZS@OT5Rq_+A"_B1s+u<J]2&9cKQ&?L#`.+^/l.@0#pm>,^`p39e&MWol0]3":9!/a[U)
-J0><68O+HE:5Q6#`Pa:.$WbEDU]`3I*hGCs;-N0R=T])8@EJ:Aa'DSh9C'\i=SPA&8++.lI`3Hp
-&e;aRjG8J_6\iZrJ^6j"J<\E7L!R&(@!n+t5TO[T-l.%`%[`;@qT),M9+<el@cK'X(YNPP8JA[<
-ZY!MGLd$j[/PCf*'FA0//e0_+VH64f6^4S'r$.dM(r[a+kEIVAod:.l'5;u]OVRr'I`$K:ROW`(
-PkA-ZO;9)MNh9"3MueY>@59[n"'?lKF1=hkI_M71@A;Al%#_poldrU3PI+7di0[&BNq+\N75>An
-D5:StY.jNa@t8!Y@bH1QCiH,EZ#K.lGKbmp<iiYdUQ>06e&P,PRC&uOo.#/8;JGNWe).!k^gKc3
-fItT(,CmV'-+K,5kG1.SNugG`LCP?a1uA,;KgG(\WO%r`K2-LUS7BmYh!a2^qB&Zl.<C:pjt7m/
-@@tVHF70_p1uYW.'oPZm#G&&N"q=Jsp@M5*fL`SabEeZB0`r,u6:_IUAYWWI,pRp`Y`ahcOY.LF
-)#@OMG4eaW1-o1=GFUJ_*%uGc[0^jTjLWBjKjJHn-%OsAp*`PsJ77AcHK.f?qa:]\*'J%Ym+f\$
-%2N9>OX!ABn!GrrQ.4pqF1IY?(Y?+*rC/=TbX'*6TlZ.S/L'FWW.8<Y`M@ad7qYJ@LNMe1WDhlO
-ql-rnA$^YCj(D[rL)#2S5&qSrYp>M_Pr;-P0B\Hih9*s"S?u_oqQ*l68fUigfY-\'gEI<GP)7+\
-;>9M7D'B@[[3F+c))GmWW!IKnWGsKR6RM)kGt<Q8=bC,`4,OZ>KRldb`7$WVLP/#Mg%tI3Dg*?o
-5oAiJdBD7!$.+*EJ:@C_[oP@B8cA#<Zs8JG6g^-3#F@3kPpf7<J2*HBeUkCLLq*fW/gQ++b..$\
-$ofAfXK,F)p/W2Q2.(^d[IuS&[QmJQML>767bnUKHm"T@0I-^*1S(2dd3(9]Yg:9.,UCgQ+\K4]
-h7OO*>plEB">kf$h"C9N]E]6qm"m*]:]gq3<6LU]=6>`V0dDR-(<*u9SE_X,%*udcXB)H,EK:S-
-[nm'WTup[XWDU^9q:TDOD:A!-:4\L5!9i[fY[PH!j@PQKeMEYNhLEAO$^AanXWD`F!W.AG=qafC
-"$Mr.P9rk1QU+\rfL?HCAijYlMmO6e"FEhLch[/AO)CmV82OD*@3F8p#(+@L,QW+/kKAs'SWh=\
-baG6N<pu!=IH*CA`egD\Nl_q\CF<!Vprg_T2F1RiPpriS8/5tWhSeT,E1Fc:l-j]+F$4VjkFHg=
-[hH@+m/4hR5k5iojQQ9!ViT>#Q7UE*Ie]U"^D"U%f4#N#`Q,r=m%W0/'j9/:%N*JJnW>FDSf3C5
-El/e-UV#jXDn+Y^7O8'Cn5QAj`?)rSq5VP__hJWSjEumAdGuW_UZPs[P590khdI!7Z5$B=(eEm"
-GS<+e$Z>)lTn##o^C=7"a&HFtkA$trX-QK:0m(K52<C`7e>>s0`*%/=d`>*+p!#GQ.)U#j207nR
-CIbZ&JAB]e%L%`[`b]g.i=?k8Rt(n#]2-/QbPf-<]6sV(('_F$P(M;mH1U0]WbJGr<kn^"a.IT]
-m.t8?Do2NL&1=GP$Uli?&7"?<4*FR6Xa!C);h<J^H^C\oT7:0@\!!0gJ6:"jaR$7l>.&+1]bM+:
-`FJJhX]njaCtR+;G;[Q^B%JsICrCJ>Gd-<2YR#cUh0edCIWlnbl2AU":7GR8obGjm%.2?`bO]o-
-(Y>g_^SMZ!k2\,;fcWne"_&HsjH3K[Ufo\rn#*q17Sc8IFR)+<6M\@WpK7JfA#t:1Jan</ZUL7>
-r,@>tD;t[s,Y01QS4-O*;ht'9;OPFaa9.F/j<!^u>4A%#2,Ua9!'kNQo?PF7+^S=Z7]'$;`2<h"
-of;cZF!EhG3\?!r4p:`@4aQeO=7qiBY-]6(4@0;$k;2omlm!K**(AMm7<:OkO$)uhrp6u;;X-!7
-.+^PnSu?"].Tb%+(G8DGIHeI+D,B>]4VI?Xf*)`[A'Q-*eUY`N7t`OM9>em1hX0%)ZYMLHp?YY;
-4oUfX1#ff`mPCL'R>GRs()r*a;qaQs)sS=(nH:G52fDaXG*!C`99f,XD,)$X??kE4],r'1VHT?<
-M#=3.O_VMG\DO8PfG7`E3nIVbNLclD]J"2P=`*!+<>"WAUrC`Ea[5l0)mOB\>sNf7*SH#jIDk8_
-d3>$`IRiG*!G9O+/RiW/]'4_G"-cT%C=f.aqo$!6no0`YoA"E5[<0F^+FoRho:<L:g)sJ0:P>6G
--V,P3EV'>UN"H'+m`I>?p[Q9GYPRtWCB7^GS`5)C3Z6:;g;a$E[r63PVW+2<WSc,*(d_Y-a/%K#
-FmP@lVaP=EAW#J]GRoNg(TErbk/.q32Bd?BOc=ctUR[H9+91J5qgZIu!#pq%JAidWis%3!(gMTD
-EFBY4?8LH'f-nrLQ"'[_J&%8*KE9;e9e"IVGRr4K;M3j<3\>kJ73FWo63mdP21]"=HZ9][lqaN/
-1!-uq3hk'5E<-pEK$+6354P$1kq32`g?Y>eUuMMI>g>FNhh)\LgXnZl4[JCR+7JRF]2)$?\Q#.B
-o\QqTB(M>5M)lE:iXsu/-FK$Y&N%><o"!qT'*mTmP2Zn,\p-^q,MF5ckTQ'p9'>/:SCnskW/Z*G
-ErGr-Y>$Ze'$V*V(SkU^Cg:noYimB5a-\.9ioD)#>VObW:0Hs+WYc'+$`eV?Bn9e71iSOfY!MB,
-Fe:U#&@35POoe2DI'@pdPh`.Op?gVRa\^>N3)VpM`="@:MbgL(;C#l=4DG_Q^<aVVE?J`=L'(?S
-,QG_W08at1'%[m8ViV^&aGl*M-5!SGQrW/)_hMA;s+*b5r&'rmJ=@KR.X"Lc"oG-'^OG%MhGSc?
-8b[Q4k/A-DoZGNOP!70g:J,M'J:jS>mFik,-X1`;jK+B";b.<6`9ar"gI,;!klKri<DFMr+1XO?
-U[K3N&g1a2"fK^=-_1qjViV`L&A[X['*AH!0kBd8=Em"T".@XF7KK4iSpL5^d=sBG67fe3R8BE`
-'JX!7&JB+-=gb*tfIp),d`#c/Ek*2;a+->E7P[d+)I8[^G3L/&1_Klp@pce^REi-ZgVj^K.Ci0(
-2r8dH*6q>2>MP`8,/E.(=T-leOdK^+@)!8q+&tYlgn(81koJNR=$F8p1f$rg#_e*bLN5sc'ENrB
-9$VdG\s".B&@kBS>md6b^%U/qU3XW2i(P8F8E3Z;J0@>9f7"mm+UNp\do8kf>M/g>8ACt)Qqd;'
-<43<.hNM[p&R_2Ujr'YJ,h86lqq3tG-dRQ`=7VbC$4rI!b9an;X(-h"1htMgI18ftP=0rSrVg\S
-Qig6?4B]dXAXZ(BVN5/\R.Qb8e?SEhG)tb,%4MA`6gb,aIpWiN^t<,2&/U!),Up8s!RaFLTe%YZ
-j?2%1`K$EK7UK$tbU9$1@`)V"IWbNS".5r[RS)e2eB&=1O;2BTi^G&g$:F42X-_)X+33fH$lD)K
-dVsX@J7Rp![r37#OgHPH'S)=/`KR(Z,tsT+aSl#/[p,$Ed%%I-+sk#iJ9C20M$uCJNr@u2R]!hH
-aTH$=!OdBWhltu"Ga:1BpqdUf7`<l1RM'#4>ECO:qZR%1n<7i;.Ci"N;E[2<i.Ic3(ZGgX%NT;Z
-5iPD,PQ4)9*ff6DLft)B(+^'08]a+&OG/FQd;UO-$>V9s#7S!26rH5_F]&8LMj;pJ5(H5U?SX@;
-dCb*#b-b$I'eMG=Y%-gBlI78O`Wpm,8q8'O)7QoY+B_J'G(R)I;D7/H?pgVe"2Pj3lASTF>^Inn
-p65PEr\;?oZk1ZXfIp.f`Od2g?LIXN4^s0Xa,&b=NI/07@)/Fii@:&r>XA]oN[?:SnXfO(etIMZ
-UH1g7"(Qi?KScte[soM="9o8S7!_h>CB/lnb@sjpMZOak1M=rHms?3L+8-(;Tt$H)/L5m)B7osr
-r9W<:6Mf_+,uSY'#qe,RgaJ=<KYOaRY[u"DWP:EE)M%oV8.9BIBgF%\d\KJ$F]<)Tb%a'V.+.AX
-p?`NU!0(L2%9'PZ[P0CChL"]S07t?dbI6K-j;%nY;WHqarEQ^sc(+"T^OIfPpe)O%^jokBR+1'W
-jVW.m>@`NA/W!TOn,$#`]6<VT\b<\(rVmMsIk4QjEV^PUA_.+jbe(W9=2[NIl/3nar(K`N:k5l)
-T6T?%OXh:aS\q+^0\Kk#]28qE(d&s>K:eJR@?NJb8+u<Lr9h2cPW;08TrL`m]5B:4pla:sfe9H\
-JH8,7SI],tL*SD5dY8unrm(>.o,#UeBcTa2r;:rm]6E_FErlLL$m@>hJ3h$tJB8it*2o^dZ>8$m
-Z"IYike<5Z7YoR=;fBrR'g3+9+HSE=/jt>e&/Km8:.k4Yi6tId<HISu,P%9Y(OGc>V$[P:ZB>cM
-!5kZVFB5#c8f#H1g-0p7Mfi18^1lk,i_pfC1.DZoTfBS+)bXSSppcP3$nM7t5+$/V,6)L9F+@M*
-)`DLD9,C?n)`;A0ClY^oDsr:+$Zq7]p5?,-ECX7=CKB,u$_*69M9%;MG<&js3u;W?Y#d6O2"mT+
-f_jn2%b:=q<^F<uG\DfJSLc3@.nmQl>#qO,%KmUTEJi<RF!-CT/$AmW*"EZ:+;b^YH8])<(OTc=
-Z/>H+?5jX)6+_do@64N/k;4?4[6]ELWaWf"Wpqg'D=1ha(L:E!5]S!!%dB]LD;Z,5,tjP[S3OC@
-KG.+bB:?h_I"J^U&7?Io%._2smR`0S<78,5r4A^ErFb['%&1IChYaZB?YAia^%N-CT0*D["G[>>
-l`t#_9mV1FD;*Kc-IZBbIeD5mC<"S3-s$'g"l&.mCTbp.a%mhn33FPNPcM]TO:p;2,F^lf1]\kT
-'lD^69eBYZeF"2?Ekns/<Ho9`a#P'!CY?")en2!bYF[o*SNPICmEYb%<_CNsc'oFarCXHtkR0#Q
-^h2V&[;P@!2ZtP:R).-pa5lK*ji_@<:5Q-"LY(!%j%QH@b(Udn%AF:[[)lRV-XJN)+4]j/0A9!3
-mcp(@:gVbR>tY\M0jL3,0%r]/CEr?NPM0gme;a#;M8l)E*7O["]kPqBD4"qnGK0;F3(BmdE(SkB
-^T#hX1LS5?;X1m"q$+b$272)NHab&Gq03@4E0E14T+qm:BURb;2r:LX5*f)t"1.pq:O]CE-g:a+
--;9r&NNJMk6i07*!s&VOd.XuX?@]"]UUi?uaU^&M[4fnJCpMM:(f<50db'IYP)1We;l=LR4nbDN
-qQ76`Z9U'(-:l:WSpF#\DbsdD(,QZdc0(^K?M)WJqu8p3Tm*%gGLD:jahUa9cmjh9jia!'/YN[(
-E57(ZK).o#V)3e<Pq#k@'=:3O(:lk!#>=eLD;49/7lSrJW`QNshFBFUY&./LX/[flJ!i3Ao!S#E
-rQnOkHCqp"`8Kgh%mTur#'d[V!ZCqR?=[%0.2\pGB4C_M43Y9J+t.W0:7=::4oY6:.6BG\.jkLA
-Q6W:Gi%cY@&.?/gbO2)8#+3sV:%hF^)NhIpmD6N!jG_:;\T?;rO$9Sh47>:Sd=iB>2`8F:]SA\J
->%fj4AA\)iiMB3?rLr$h'`"Z!EOr;LZ%A?iU<B:_k?9T%%eWt;T;=%[=ue8a7ZoTBg-ea4knJ![
-Yh-mQVTkj.jmGYiCn]hq^N4B*>hc@?BG38)(G&[]:[3@k55:4l`T,u(%rEi\=J2QcRA,a)l:CI:
-C=K>Y:$@(Hh8nm=!ioiJ?ZNF(n7+-PgY$)^c>$f'D*0`"e>ZAhm5hWW0bYlY*](^YXiJd.$Xo%_
-OoSDPI3niaqA@c8,3PPAY&04%JFq:qHn`TJr8JOiWHTYr4kkDr%%'-E\AO5W0j0P*G'p8qR;=%>
-;.K5k0>1nU>,2N7!Sa?IIDPsJqdJ"be"b5/Xl"Ee*@jjG&n)L0`F`OX)\l4OWEM_A+f%Au^V*D-
-V>'E6>G@o%UYhJcAt\'ToYJ+]l[%fiVF*6EKYqtRTl@RYEE2GR;eKkW!ogqh]46b,QV<u-=j=Ke
-N]h9N<H%:3UC]c@W`:QlbK[Mp(S6,mAs:GLC+G<#R<7O9)g.7FYadE2,^j:_;8XOLM)GPl9JSpc
-EhO'1jUM`/65C&eF?h"k"#4/L?$_pMo[6D"8pdED@)`Od_BTRUU?9dkDiYbBS*onX`mCbfYH3^Q
-/r`>O!CQ9Z4?>Z2K4n?'_fMO0=YdF<!Yema[bQQ>J^]e"JFcMAB.(Z_&+-/LX'WKNomAp3nN!'m
-0.b47htm!0UIL:cD<W3\DqsX^"q2t!QVT?-*Qs^rSe7=#8/4BTPVA:6B#;N2INr`gClUl<%(4kR
-$EuKn_>.fgPA?ah,=db.a-4's(&,g9=lV+OV`6snb.\YC[WMKa(bhm.c'pZd+pNRCG2op'ZomU>
-F?6!^83Pr)NfbH8h;3!^f`2!]>=h4K<5i`A!5mm6IR+%SU!TsS(Yl.4N>n58W*u(6q<+BR:-%DM
-CU;!RY@4g^nA6JVUNs3.f'l0EOVI.!2BNO5bN-h.6Mo`q?i9m2AQHb:Jg)B9oT9GJ\31YUb5<"k
-Y)Dqi+b1i.4aXX4ZnOF^oF&'J_Z*A%.gXu&j7ZWl"QA1(8u!G4nXsQBWd=siVad79;N[>/RgYlS
-"iHZ%rnlU;LBmlg=!@8Fl5H9pX&QL8$q>JH5XU?W6&,Lll*kQbC&on,$hiN&Qp/DlqiJNVe+Ec8
-(`J-d!GCsp\O9^Y]shn83],H'VML$h`Z[Tt"NgJahnHAS/(b8q.oj$m41bsUi=(N86,c<1P\LT/
-+('KmV;6dAL:'#6ca>F^T.'dFYE)[Nb_@Oq$qXk/^&H%;QFf^I1J-FB7NK-NE7gaFH`@T?pqULG
-LERd3O=3jU6WHJdEIV(sW`8hM[rUTQQ0RXMXqm(nHQW4"A'Q)QTf?@6T;;eebW(*L";lpq-S[.,
-@a5*H1Rj5;'"GTe]K"@e:tngk:bP\\=IW`-(8_'cTU0^[F!#gk)DD;/Y$SeF?#es@hMFrHJRB8b
-k0LBX1`+0]orH_@,:QM?cThHBGK9q2)sc+Z:[,RGE&1oOCq)7$s4Vun)g0-fOWi#.YkbN?@=lp^
-G-"fN_JUK[L;&mOO3f#X2\9>_b6=#u;DGboB!4\OR&Q5S=krHWQQSR=c;T%52V`,Ea:H\:7afqf
-ii%D0h+U!9rUeQ7lW1,lKbe%8-GcNOQfdA=]"&W%*QEp`$q8$DHosTk-D^!:+%`UMk^qNBiU<qJ
-eM-4cm^qqfa]D2;-MTARP-\Dtpn#H^rAnPBL%_)d+.P)od*"'^GG1@C#;JIBpg`VqM6c_ajkV8(
-=IK+]G-b>=I:ca+/@0*A.e!&$0\bj`m$%Ogb;_O&muWTp@6J5r*OG-!ZT]C#lBY*E,R_YDRr-02
-l^*!3qYn>n)-<"Va1BpPpZ-Q]8H]mI6AS3"jcC5`]6!.1X"*21pm0>T*VFCG_X.A^n(Bn([KfUe
-_I"k$dHRX]NViYu^u-CWE681L6XC)nk<Mnq"d5$4$BWc`j<%<5rod$k-YAej_$k<h_[pml(h/@0
-3tD.Zgt0_RL'Ohu]t2dAK1e*OrY.'`NV!ZYDU>1U.aCC!oJa)-i:W7Z6`J\?I61/MEiFj?$s\Eb
-m&;p<oa\KAa5Y6s=5&2KSE!'Vm#Z3mgUtdU_J[-eG"'K0Zk24PG3i=RrH6_MeSYI%)uX18RcThe
-j+DfdSYSWq^s,Q1T:GW4qp;m\\n'RNZ=Sq80Q;PDmPq!Qq$F49r]7Xk\S'50h7?<r0.B8+2&:1Q
-V51bC=h*KCb`O^5-[?_bK_U;+5uO$bIXgooCGO4tAuSr)AmQr(j$3aeOsNaXl8F@8:(qQC%m'J.
-nZuYY1M>"?ccUt3ncB4&J9tOIfqmPqNQ`kR?%&!_d:J9V>bGr4IDFu$lRVh+M_ELhQjd`!P]S"H
-U.Ck^3:eF:+R`Kd,8uB1%l6?,`"TL<q^,9gAEr.1J77A,7Rt1pOp3/pmr5T.oB4kQX@s3K)rF#q
-)C\cMG3UJVQe[r^Tj&Sm;SW%iS&M8?!^J)/1JlpcpWTA(j>ad?^AEe9I^[Y])_c@N*L^IPI$26)
-,1inre#F6YMPTT7!LT'RLpRI#a`HTX-N-?4%i[]+n(=o*J<SZ^MmXT^l$EElEUAe8Aj'i-%V=W!
-dK18;$Valn^?!^8]N$`l"Vi/B2#j+@fSV#?8De^USX)0-5j@?Poa[sCLn6MARa&Xio++e[l\6[<
-!6ithob1QlZ,[nIctfrHDeT4\4b`cq9=K>)p>0NcK7Th$ZtPR2PqQu>Z\$VW7ac4L_p+$Ieu8>2
-Y_=GaLEi4@7I(6f&kU>2gs>3cKqFROG<jG&"DiM-k)qX<5Qj?)/+SK@Nt;u5n/u,f>^sZa2YCc]
-@l0[3?<Z+J.mQDCG4*f3MmF4s-eg,4'Le(j.'5Z1*@ZUgdmq".9tfkq]<^.#Q<(fZh1@/?F-uPm
-$4iHp3s.l/q'Ve^d]OJniJ9cH5htdYG&6Y'@JK\rRr5ObrR3&iT]+l&&%?^/?8!`:3@kM;c=\]?
-FR<P*6/:ZGZor+,N-d!D2kWY$2p3!N\*0J=:`!G[Tk;=mlNFcVHDV3hU>mpS]O%*4L>(\*`J`.R
-gYkY8rQ%TFel@))DJ[0qI+h)&Ir$L"6T16,!!=AE%7VBk9-43OSH)>3cDj1i^b&CcZ`,oUJs1lJ
-n6!TF-',W:[')[nB4>md*a?J0[;?a\ET+cghVM'G.E=AZUMUnf@$nlO1i/U%4aVFE/Q:HC_7j?i
-mAsHs[+W-,NCdIe)@#[2#bYdZ5AM8Z><(WL&b]>@FFs]W_44X#T.si1>u[,i?R=)$DdE)Yh7]0u
-WofS1Y1+e%]qj8up@hAaj*H\t_up7@AOX0in=Xq9o>I%Fldi2E+D!6oW0pQ>GRouOcse,=1)RHi
-aY'P_N?4pWDKN6EB.g@UmPf[54&C-/;IN.'qDW?L4RYZdW7]$!ZA+]?V&YJ[7^]*kO1\_P_^]a&
-W81Nm-<D\I"5h9S:nheeAqDfSgU:gsg9k^/'7uEPR+u'pZ#dNG$\(JMpODqnOf.]H!JaC;AFsi[
-h@he\OiVI]c5k%IAn3j>O`H:Q>cqDk%]"=oq#\VRGPV$We\H_<D$EW/(M5BOT&"0le31#72/1K,
-h7M`Se[]a6Y:]3Op9j+j1Bn\&$qU*ZgSYf??E=pt]tf(-HU>7QZTFD!"Jg5f^G*4:aH+PU,H"Yg
-)E$p>\VE'\IGIZnYQ+7&h0M>u3SO`\0O[NI!$LJ=!6TCl'44$kJNA5?l#ueOrQ/#J7/FNDqfW>c
-E\g5ob_bD1\(uA"ASUidmNnWYEQ!A`Rp\?9GMZS9*!8*eGG]oNg5q;d9JF7G@))b"G0F%r)#bUG
-<Z8tsg@T+9$-aK(VGE\!ZOqlp)WhhP?oQ@8RsEP_QSqu/$01gko7O<BKol9M9nbuo[)m#'OT:-X
-9&h)kmbPM*g9k_H]h@h%+GtbT`u-uJ'Ed!qCKEB(n.=-R?U($GPlZlU+E>G-36lD3p)UX?r-UBr
-Y.<imj,^[=&g^5e0jWMM"TSN-@,PM.O`01,:Hu7.mJRRP=2n7Cbe>^!b*P.[Bf(mjN>npY"W]2N
-q$qYN.W8XV&KBjtK51lpCBGDTUUkg2h:C.cT779<G+`H&p,>5<+?4DFJ%tttd%EZ_&No>hS-n;o
-KUXZ8Jm,KmNV@[k%Z_J`7L^FtgtFV2^+[^dMtW_9F"u&CL6ESW"4d2lUW&=M%GMN8bRoccd`aXO
-QY/X'G6&'-M.@d_I%*$2e>Yf2[8PhP,%iAp%N%\A3W]PZF+EG97j#!m'G-ZeC8Pca>!JE+fMaq-
-@e8G(oiBn[FgHiX_:][L\/&mD'5F:[^?&t7@Ddi,N"]q<-^m>ZcCI"#qh>6:E.2K:Hsd=??mUf^
-Hb81ABr#^\OB@4O,@)R9L?Bf;!"KF;=gM^TfVudTZ%r&OE<8hm8HIGY\AeUSGb0EDH(+pW6340(
-/dr)%(7r/k?+QtuqjqVbs(Ko\Oj1fh;+I@V#O2fP0#q<_hMtGkNt5a<Kp2V6GZoTErf;P*'dL%n
-;B9.-;Fhl6`^E7rNR)H@DnYh0"V`-tJAne//P-dGi^8_.n'\b)"UB?.Sh4SS`j+p1ZjHSmd,`pH
-Y-gc6i'kkuihQsF"]Yu]E:Df%QE`F\AC^aX0_#a_kc4[e&WA+r$\`?YY+8T]F8Q)#/G^jjKa"?j
-g^$`lOcUKOU!kR-R2+o_TCj91!AU3`d\AMPK7&I:cT_6-19$j].UZ5N\/1MNj3s_k$[)$^-`[nV
-3)MPMg=4h10Jpe.Z)2%X?qM@<"pq[;5d@O!VuRAFk>?^(LG,cB`3#r1o:h/T_1dEl'\Ep5h\^]6
-qRUh7>,f;]U]\AAQpOd?Vk,,LBl2)U^VeEko9(CmeFNL'>FRH#VBqo\!+9V7H/,H%0@dI'="F6S
-S+n"<;A+&o8\h,o6jB$8?MK^s,a1Gm9(%0nd[c(dZc-'!?+/8F>E6RO;cnWnn(uk]&s+Gb_6>4o
-FoWcn_b1!9rtm-`$\8@M(Y3D!PlVCcc^R#ueu8bMdT'[o9RJ*MdK?s@2Il@@c)hFH6jJ3ci$b[A
-"`6U.R%T[9mRnK&:mH%Yi"cMbfUb'Cn;*eso67)V,P<L9JI0V47k+KG<2_p#lsm)+>?SS#fJHk)
-W6n@D:sWG83VJ$@IhKO&$("U!LB7r.V*,h16rCf1CQ5&YaZHht!`8tA.+,uTaFh2L\M'XA/l<_l
-9J2<:d[/<0O8pVL&go?R,msPlBm6@8=Cg/%z8OZBBY!QNJ
-EndImage2
 Fore
 SplineSet
 570 167 m 1x7ac0
@@ -2419,8 +2221,8 @@ SplineSet
  252 14 l 1
  195 14 170 18 130 36 c 0
  103 47 59 68 36 119 c 0
- 21 152 15 179 15 209 c 0
- 15 223 11 225 11 268 c 0
+ 21 152 11 183 11 213 c 0
+ 11 227 11 225 11 268 c 0
  11 406 121 566 190 610 c 0
  238 642 322 658 336 658 c 0
  367 658 372 653 397 628 c 1
@@ -2465,7 +2267,6 @@ SplineSet
  693 527 694 515 694 505 c 0
  694 456 674 295 570 167 c 1x7ac0
 EndSplineSet
-Validated: 1
 Kerns2: 52 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 50 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 46 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 18 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 10 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 4 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -75 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
@@ -3428,7 +3229,7 @@ SplineSet
  450.5 52 425.5 22 356.5 22 c 0
  320.5 22 286.5 33 263.5 55 c 1x7c
 EndSplineSet
-Validated: 524321
+Validated: 33
 Kerns2: 53 -90 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -80 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -30 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
@@ -3654,7 +3455,7 @@ SplineSet
  405.505859375 512 456.505859375 545 497.505859375 572 c 0
  529.505859375 592 569.505859375 601 617.505859375 601 c 1xbc
 EndSplineSet
-Validated: 524321
+Validated: 33
 Kerns2: 52 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -80 "'kern' Horizontal Kerning in Latin lookup 1-1" 51 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 50 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 46 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 43 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 41 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 39 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 38 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 34 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -130 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -50 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
@@ -4213,6 +4014,7 @@ SplineSet
  204 155 l 2
 EndSplineSet
 Validated: 33
+Kerns2: 54 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 4 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 50 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -90 "'kern' Horizontal Kerning in Latin lookup 1-1" 46 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 33 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -40 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: c
@@ -4306,6 +4108,7 @@ SplineSet
  268 447 272 448 298 439 c 0
 EndSplineSet
 Validated: 33
+Kerns2: 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -40 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: d
@@ -4355,6 +4158,7 @@ SplineSet
  161 381 192 400 248 400 c 0x78
 EndSplineSet
 Validated: 1
+Kerns2: 50 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -85 "'kern' Horizontal Kerning in Latin lookup 1-1" 46 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -110 "'kern' Horizontal Kerning in Latin lookup 1-1" 33 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 4 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -50 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: e
@@ -4486,6 +4290,7 @@ SplineSet
  418 51 418 50 418 47 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 47 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -75 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: f
@@ -4670,13 +4475,13 @@ SplineSet
  131 413 128 404 119 397 c 0xae
 EndSplineSet
 Validated: 1
-Kerns2: 40 -97 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 49 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -80 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 23 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -80 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -97 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: g
 Encoding: 103 103 32
 Width: 410
-Flags: W
+Flags: HW
 HStem: -180 41<65.6043 141.995> 60 51<137.64 246.796> 381 32<202.245 273.585>
 VStem: 39 86<127.657 299.295> 292 84<148 359.959>
 LayerCount: 2
@@ -4694,9 +4499,9 @@ SplineSet
  273 83 246 60 194 60 c 0
  176 60 154 63 129 70 c 0
  96 79 69 81 54 111 c 0
- 42 135 39 154 39 176 c 0
- 39 194 39 214 39 237 c 0
- 39 273 54 293 73 324 c 0
+ 42 135 37 170 37 192 c 4
+ 37 210 39 218 39 241 c 0
+ 39 277 54 293 73 324 c 0
  90 352 106 362 133 381 c 0
  166 406 207 413 240 413 c 0
  266 413 287 410 292 409 c 0
@@ -4723,7 +4528,7 @@ SplineSet
  256 126 256 148 284 148 c 0
  286 148 290 148 292 148 c 1
 EndSplineSet
-Validated: 1
+Kerns2: 47 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: h
@@ -4772,6 +4577,7 @@ SplineSet
  71 604 65 634 65 686 c 5xd0
 EndSplineSet
 Validated: 1
+Kerns2: 47 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -130 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 4 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -50 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: i
@@ -6767,7 +6573,7 @@ SplineSet
  305 459 361 393 377 365 c 1
 EndSplineSet
 Validated: 1
-Kerns2: 29 -77 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 31 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -77 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: p
@@ -9253,6 +9059,7 @@ SplineSet
  115.416992188 349.049804688 106.372933618 343.85825881 90.4072265625 346 c 24
  73.3955078125 348.282226562 65.3974609375 355.759765625 49.4072265625 362 c 25
 EndSplineSet
+Kerns2: 45 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -50 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 EndChars
 EndSplineFont
