@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 18 6
+WinInfo: 36 18 6
 BeginPrivate: 1
 BlueValues 15 [-20 0 658 688]
 EndPrivate
@@ -4672,6 +4672,7 @@ SplineSet
  126 520 110 526 110 539 c 0xd0
 EndSplineSet
 Validated: 33
+Kerns2: 50 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -75 "'kern' Horizontal Kerning in Latin lookup 1-1" 46 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -90 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 23 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 4 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: j
