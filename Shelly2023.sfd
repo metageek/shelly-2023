@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1687722075
-ModificationTime: 1689284883
+ModificationTime: 1689290695
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,19 +46,19 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 1" { "'kern' Horizont
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Reserved Font Names: Shelly 2023, Shelly2023." "http://scripts.sil.org/OFL"
-Encoding: Custom
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64242 18 6
+WinInfo: 8190 18 6
 BeginPrivate: 2
 BlueValues 31 [-9 23 449 488 666 695 700 714]
 BlueScale 8 0.039625
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65545 65
+BeginChars: 65547 68
 
 StartChar: A
 Encoding: 65 65 0
@@ -1322,7 +1322,7 @@ EndChar
 StartChar: L
 Encoding: 76 76 11
 Width: 471
-Flags: HW
+Flags: W
 HStem: 5 29<392.944 422.256> 55 47<218 264.422> 646 20G<202 211>
 VStem: 127 87<102.412 523.25>
 LayerCount: 2
@@ -2346,9 +2346,9 @@ EndChar
 StartChar: S
 Encoding: 83 83 18
 Width: 387
-Flags: HW
+Flags: W
 HStem: 7 51<106.886 180.928> 403 50<212.426 298.34> 627 51<183.721 306.072>
-VStem: 0 78<87.7666 156.865> 3 91<372.797 546.742> 144 64<457.253 513.724> 215 86.0059<100.21 253.936> 318 68<472.086 614.196>
+VStem: 0 78<87.7666 156.865> 3 91<372.797 546.742> 144 64<457.253 513.724> 215 86<100.21 253.936> 318 68<472.086 614.196>
 LayerCount: 2
 Back
 Image2: image/png 7804 -10.9963 701.952 3.86145 3.86145
@@ -3031,9 +3031,9 @@ EndChar
 StartChar: W
 Encoding: 87 87 22
 Width: 640
-Flags: HW
-HStem: 10 66<119.967 200.625> 22 64<325.986 406.725> 654 20G<282 296>
-VStem: 8 104.839<87.125 384.329> 232 90<102.891 230.018> 538 94<282.402 513.28>
+Flags: W
+HStem: 10 66<120.673 200.625> 22 64<325.986 406.725> 654 20G<282 296>
+VStem: 8 105<87.125 196.989 197 384.329> 232 90<102.891 230.018> 538 94<282.402 513.28>
 LayerCount: 2
 Back
 Image2: image/png 9061 16.5723 667.136 4.06588 4.06588
@@ -3245,9 +3245,9 @@ EndChar
 StartChar: X
 Encoding: 88 88 23
 Width: 642
-Flags: HW
+Flags: W
 HStem: 13 47<92.8767 167.881> 22 21G<399 426> 25 64<431.094 482.186> 553 48<533.836 638.634> 629 51<109.211 221.907>
-VStem: 18 56<70.6108 139> 286.001 96.9992<230.616 390.238>
+VStem: 18 56<70.6108 139> 286 97<230.616 390.01>
 LayerCount: 2
 Back
 Image2: image/png 9929 -2.25098 733.44 3.84 3.84
@@ -3865,8 +3865,8 @@ EndChar
 StartChar: b
 Encoding: 98 98 27
 Width: 421
-Flags: HW
-HStem: -8 32G<59 68.5 385.5 399.5> 36 55<200.351 239.855> 155 60<199.023 230.913> 345 43<181.22 288> 661 20G<44 59.5>
+Flags: W
+HStem: -8 32G<59 68.5 385.5 399.5> 36 55<200.351 239.495> 155 60<199.023 230.913> 345 43<181.22 288> 661 20G<44 59.5>
 VStem: 11 84<398.891 640.838> 19 98<17.762 267 330 595.179> 117 82<91.4033 154.758> 279 80<181.252 330.957>
 LayerCount: 2
 Back
@@ -4031,8 +4031,8 @@ EndChar
 StartChar: c
 Encoding: 99 99 28
 Width: 409
-Flags: HW
-HStem: 9 76<150.386 319.779> 428.943 20G<231.154 257.247>
+Flags: W
+HStem: 9 76<150.386 319.779> 429 20G<231.5 257.5>
 VStem: 6 117<113.75 274.223>
 LayerCount: 2
 Back
@@ -4493,9 +4493,9 @@ EndChar
 StartChar: g
 Encoding: 103 103 32
 Width: 410
-Flags: HW
-HStem: -180 41<65.6043 141.995> 59.7355 51.2645<140.477 239.342> 381 32<202.245 273.585>
-VStem: 36.1111 88.8889<127.657 299.295> 292 84<148 359.959>
+Flags: W
+HStem: -180 41<65.6043 141.995> 60 51<140.477 239.342> 381 32<202.245 273.585>
+VStem: 36 89<127.657 299.295> 292 84<148 359.959>
 LayerCount: 2
 Fore
 SplineSet
@@ -4598,7 +4598,7 @@ EndChar
 StartChar: i
 Encoding: 105 105 34
 Width: 299
-Flags: HW
+Flags: W
 HStem: 14 91<175.28 213.681> 520 31<110.551 164.863>
 VStem: 36 99<70.2093 368.001> 110 55<520.639 549.925>
 LayerCount: 2
@@ -6471,8 +6471,8 @@ StartChar: o
 Encoding: 111 111 40
 Width: 484
 Flags: W
-HStem: 12 74<133.094 199.085> 281 68<217.567 275.962> 389 70<216.816 264.648>
-VStem: 1 113<86.6992 256.108> 294 106<188.626 282.692>
+HStem: 19 59<117.825 189.906> 288 54<212.21 282.998> 397 55<211.004 268.888>
+VStem: 8 99<80.5191 253.807> 301 92<185.969 288>
 LayerCount: 2
 Back
 Image2: image/png 4796 2.21288 600.064 5.72746 5.72746
@@ -6559,40 +6559,46 @@ Jq_C2!.CD!G1&J=M=EmA#>R\c^EjALWgJ6%`?UB.!B#nukX@Jhd[R<]Ej=]D:*,2FSW3h\(4uXO
 EndImage2
 Fore
 SplineSet
-141 86 m 0
- 192 86 294 163 294 272 c 2
- 294 283 l 1
- 285 282 273 281 261 281 c 0
- 233 281 192 281 157 316 c 1
- 117 266 114 181 114 162 c 0
- 114 137 118 109 133 86 c 0
- 135 85 138 86 141 86 c 0
-228 389 m 0
- 225 389 221 389 218 387 c 1
- 219 385 220 383 222 381 c 1
- 215 374 l 1
- 215 370 216 365 217 360 c 0
- 229 355 247 350 276 349 c 1
- 272 359 268 368 263 376 c 0
- 263 376 239 389 228 389 c 0
-377 365 m 1
- 387 368 411 378 449 378 c 2
- 465 378 l 1
- 484 359 l 1
- 465 341 l 1
- 448 332 439 324 421 317 c 0
- 417 316 417 315 396 307 c 1
- 398 296 400 282 400 267 c 0
- 400 107 252 46 192 21 c 0
- 186 20 168 12 143 12 c 0
- 89 12 48 46 47 47 c 2
- 28 66 l 2
- 15 79 1 119 1 152 c 0
- 1 242 61 339 88 366 c 0
- 114 392 114 393 133 409 c 0
- 136 413 136 413 158 435 c 0
- 169 446 191 459 229 459 c 0
- 305 459 361 393 377 365 c 1
+107 162 m 0
+ 107 116 122 78 135 78 c 0
+ 137 78 139 79 141 79 c 0
+ 197 79 301 160 301 272 c 2
+ 301 283 l 2
+ 301 287 298 288 294 288 c 0
+ 294 288 277 288 261 288 c 0
+ 233 288 195 289 162 321 c 0
+ 161 323 159 323 157 323 c 0
+ 145 323 107 256 107 162 c 0
+211 387 m 0
+ 211 387 204 378 204 371 c 0
+ 204 363 210 357 212 355 c 0
+ 216 350 251 342 276 342 c 0
+ 280 342 283 345 283 349 c 0
+ 283 352 276 370 269 380 c 0
+ 267 384 240 397 228 397 c 0
+ 227 397 227 397 226 397 c 0
+ 217 397 211 393 211 387 c 0
+449 371 m 1
+ 464 371 l 1
+ 473 359 l 1
+ 461 347 l 1
+ 454 344 449 341 444 338 c 0
+ 407 314 389 318 389 307 c 0
+ 389 307 393 286 393 267 c 0
+ 393 114 254 55 190 28 c 0
+ 188 28 186 27 183 26 c 0
+ 175 24 161 19 143 19 c 0
+ 92 19 52 52 52 52 c 1
+ 33 71 l 2
+ 23 82 8 121 8 152 c 0
+ 8 239 68 335 93 361 c 0
+ 99 366 115 382 115 382 c 0
+ 131 398 137 402 139 405 c 0
+ 142 408 141 408 163 430 c 0
+ 173 439 193 452 229 452 c 0
+ 275 452 314 423 340 397 c 0
+ 369 368 369 358 377 358 c 0
+ 382 358 408 371 449 371 c 1
 EndSplineSet
 Validated: 1
 Kerns2: 51 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 23 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 6 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -100 "'kern' Horizontal Kerning in Latin lookup 1-1"
@@ -6767,9 +6773,9 @@ EndChar
 StartChar: q
 Encoding: 113 113 42
 Width: 598
-Flags: HW
+Flags: W
 HStem: -201 89<302.827 380.123> 5 88<311.244 421.328> 100 75<515.154 562.763> 402 58<134.614 222.488> 451 20G<261 271.5>
-VStem: 36 58<191.846 356.087> 218 77<-109.902 28> 231 78<181.978 370.226> 240 72<195.344 374> 240 56<267.469 374 421 469.368> 421.683 61.317<-103.5 4.91274>
+VStem: 36 58<191.846 356.087> 218 77<-109.902 28> 231 78<181.978 370.226> 240 72<195.344 374> 240 56<267.469 374 421 469.368> 422 61<-103.5 4.91252>
 LayerCount: 2
 Back
 Image2: image/png 63314 -5.18481 531.456 3.24051 3.24051
@@ -9042,8 +9048,8 @@ EndChar
 StartChar: quotesingle
 Encoding: 39 39 54
 Width: 269
-Flags: HW
-VStem: 111.219 104.596<414.898 613.636>
+Flags: W
+VStem: 111 105<413.777 613.636>
 LayerCount: 2
 Back
 Image2: image/png 1668 -20.6622 822 6.91892 6.91892
@@ -9366,7 +9372,7 @@ LCarets2: 1 384
 EndChar
 
 StartChar: o_f
-Encoding: 64258 -1 59
+Encoding: 65536 -1 59
 Width: 816
 Flags: W
 HStem: -120 43<355.573 421.105> 12 74<133.094 199.085> 281 68<217.567 275.962> 368 32<622 711.61> 385 49<701.425 770.34> 389 70<216.816 265.452>
@@ -9446,9 +9452,9 @@ Ligature2: "liga-1" o f
 EndChar
 
 StartChar: o_f_f
-Encoding: 64260 -1 60
+Encoding: 65537 -1 60
 Width: 1190
-Flags: HW
+Flags: W
 HStem: -120 43<355.573 421.649 732.655 792.794> 12 74<133.094 199.085> 281 68<217.567 275.962> 368 32<622 726.236 993 1082.61> 389 70<216.816 265.472> 406 35<748.047 900.551>
 VStem: 1 113<86.6992 256.108> 294 106<188.626 282.692> 531 83<183.246 360 471.797 708.51> 710 53<546.444 700.134> 710 43<536.413 697.42> 902 91<190.239 372 431 618.465> 1081 53<546.444 700.134> 1081 43<536.413 697.42>
 LayerCount: 2
@@ -9559,9 +9565,9 @@ Ligature2: "liga-1" o f f
 EndChar
 
 StartChar: o_f_f_i
-Encoding: 64261 -1 61
+Encoding: 65538 -1 61
 Width: 1313
-Flags: HW
+Flags: W
 HStem: -120 43<355.573 420.957 732.655 792.794> 12 74<133.094 199.085> 14 91<1200.28 1238.68> 281 68<217.567 275.962> 368 32<622 726.236 993 1082.32> 389 70<216.816 265.472> 406 35<748.047 900.551>
 VStem: 1 113<86.6992 256.108> 294 106<188.626 282.692> 531 91<183.246 360 403 618.465> 710 53<546.444 700.134> 710 43<536.413 697.42> 902 91<190.239 372 431 618.465> 1061 99<71.1806 369.168> 1081 53<546.444 700.134> 1081 43<536.413 697.42>
 LayerCount: 2
@@ -9685,9 +9691,9 @@ Ligature2: "liga-1" o f f i
 EndChar
 
 StartChar: f_t
-Encoding: 64262 -1 62
+Encoding: 65539 -1 62
 Width: 703
-Flags: HW
+Flags: W
 HStem: -120 43<71.5734 138.6> 8 41<582.283 641.524> 368 32<338 383> 397 26<95.1926 130.681> 408 34<142.327 242.764 581.289 665> 536 243<361 443>
 VStem: 247 91<188.351 372 431 618.465 622.03 711.111> 426 53<546.444 701.759> 426 43<536.413 698.732> 470 93<58.8914 395.855>
 LayerCount: 2
@@ -9770,7 +9776,7 @@ Ligature2: "liga-1" f t
 EndChar
 
 StartChar: o_f_t
-Encoding: 64263 -1 63
+Encoding: 65540 -1 63
 Width: 976
 Flags: W
 HStem: -120 43<355.573 421.105> 8 41<866.283 925.524> 12 74<133.094 199.085> 281 68<217.567 275.962> 368 32<622 711.61> 389 70<216.816 265.452> 408 34<865.289 949>
@@ -9872,10 +9878,9 @@ Ligature2: "liga-1" o f t
 EndChar
 
 StartChar: t_t
-Encoding: 64264 -1 64
+Encoding: 65541 -1 64
 Width: 606
-Flags: H
-HStem: 8 41<202.283 261.524 405.283 464.524> 441 51<37.5338 100.837 201.05 274.458 275.6 303.837> 449 43<39.4268 102 242.209 274.458 275.6 305> 458 34<404.289 488>
+HStem: 8 41<202.283 261.524 405.283 464.524> 441 51<37.5338 100.837 201.051 274.882 276.047 303.837> 449 43<39.4268 102 242.209 274.882 276.047 305> 458 34<404.289 488>
 VStem: 90 93<58.8914 445.819> 125 96<493.406 593.484> 293 93<58.8914 445.819>
 LayerCount: 2
 Fore
@@ -9940,6 +9945,104 @@ Validated: 1
 Kerns2: 51 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 48 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 47 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 45 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 44 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 42 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 40 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 35 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 31 -150 "'kern' Horizontal Kerning in Latin lookup 1-1" 30 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 29 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 54 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 52 -100 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 25 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 23 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 19 -25 "'kern' Horizontal Kerning in Latin lookup 1-1" 16 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 11 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 2 -40 "'kern' Horizontal Kerning in Latin lookup 1-1" 0 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
 LCarets2: 1 252
 Ligature2: "liga-1" t t
+EndChar
+
+StartChar: comma
+Encoding: 44 44 65
+Width: 157
+Flags: W
+VStem: 65 68<-52.4648 132.739>
+LayerCount: 2
+Fore
+SplineSet
+40 179 m 25
+ 43 184 43 191 49 193 c 24
+ 58 197 65 193 76 193 c 9
+ 89 164 106 151 115 121 c 16
+ 124 89 133 70 133 40 c 0
+ 133 34 130 26 130 20 c 8
+ 124 -28 112 -55 89 -95 c 24
+ 70 -127 52 -140 22 -160 c 24
+ 7 -172 -7 -178 -28 -178 c 24
+ -50 -178 -61 -169 -82 -163 c 9
+ -56 -151 -41 -151 -19 -136 c 24
+ 8 -110 22 -95 38 -64 c 24
+ 53 -32 65 -11 65 25 c 16
+ 65 35 65 47 65 56 c 0
+ 65 80 61 101 56 130 c 8
+ 53 151 44 160 40 179 c 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 66
+Width: 219
+Flags: W
+HStem: 436 20G<97.5 107.5>
+VStem: 102 68<-46.4648 138.739>
+LayerCount: 2
+Fore
+SplineSet
+86 308 m 25
+ 151 382 l 25
+ 98 417 l 25
+ 63 341 l 25
+ 86 308 l 25
+85 257 m 16
+ 83 256 81 257 79 257 c 0
+ 61 257 52 278 39 294 c 0
+ 27 309 15 320 15 338 c 0
+ 15 340 15 342 15 345 c 0
+ 27 366 24 376 35 393 c 24
+ 53 419 59 445 90 455 c 16
+ 93 456 96 456 99 456 c 0
+ 116 456 127 439 144 428 c 0
+ 167 413 184 403 199 386 c 1
+ 183 352 170 345 148 321 c 0
+ 125 295 119 265 85 257 c 16
+77 185 m 29
+ 80 190 80 197 86 199 c 28
+ 95 203 102 199 113 199 c 13
+ 126 170 143 157 152 127 c 20
+ 161 95 170 76 170 46 c 4
+ 170 40 167 32 167 26 c 12
+ 161 -22 149 -49 126 -89 c 28
+ 107 -121 89 -134 59 -154 c 28
+ 44 -166 30 -172 9 -172 c 28
+ -13 -172 -24 -163 -45 -157 c 13
+ -19 -145 -4 -145 18 -130 c 28
+ 45 -104 59 -89 75 -58 c 28
+ 90 -26 102 -5 102 31 c 20
+ 102 41 102 53 102 62 c 4
+ 102 86 98 107 93 136 c 12
+ 90 157 81 166 77 185 c 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 67
+Width: 567
+Flags: WO
+HStem: 241 51<58.2555 341.253> 250 48<315.412 534.635>
+LayerCount: 2
+Fore
+SplineSet
+57 233 m 0x80
+ 47 233 19 242 19 250 c 0x40
+ 19 251 19 256 23 258 c 0
+ 49 270 62 287 94 292 c 0x80
+ 108 295 432 298 443 298 c 2
+ 453 298 l 2
+ 483 298 499 291 527 291 c 0
+ 531 291 534 288 534 284 c 0
+ 534 274 537 269 537 257 c 0
+ 537 253 534 250 530 250 c 0x40
+ 433 250 123 241 121 241 c 0
+ 97 241 84 233 57 233 c 0x80
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
